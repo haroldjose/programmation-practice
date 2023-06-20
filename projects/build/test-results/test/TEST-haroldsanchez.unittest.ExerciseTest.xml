@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Exercises" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-20T22:49:59" hostname="LAPTOP-VI9D13P0" time="0.024">
+  <properties/>
+  <testcase name="Counter the number of times the character appears in the string" classname="haroldsanchez.unittest.ExerciseTest" time="0.024"/>
+  <system-out><![CDATA[expectedResult: 4
+actualResult: 4
+expectedResult: 4
+actualResult: 4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
